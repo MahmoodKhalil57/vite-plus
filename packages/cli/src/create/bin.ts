@@ -156,6 +156,7 @@ const listTemplatesMessage = renderCliDoc({
         { label: 'next-app', description: 'Next.js application (create-next-app)' },
         { label: 'nuxt', description: 'Nuxt application (create-nuxt)' },
         { label: 'react-router', description: 'React Router application (create-react-router)' },
+        { label: 'svelte', description: 'Svelte application (create-svelte)' },
         { label: 'vue', description: 'Vue application (create-vue)' },
       ],
     },
